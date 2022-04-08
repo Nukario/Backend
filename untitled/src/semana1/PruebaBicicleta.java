@@ -21,11 +21,5 @@ public class PruebaBicicleta {
         msg2 +="\nVentanas: "+extremo.getventanas();
         msg2 +="\nPuertas: "+extremo.getpuertas();
         System.out.println(msg2);
-
-
-
-
     }
-
-
 }

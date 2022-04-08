@@ -14,8 +14,6 @@ public class bicicleta {
     public int pins, rodada;
     public double velocidad;
     public String color;
-
-
     public int getrodada() {
         return rodada;
     }
@@ -28,8 +26,5 @@ public class bicicleta {
         return color;
     }
 
-    public int getpins() {
-        return pins;
-
-    }
+    public int getpins() { return pins;  }
 }

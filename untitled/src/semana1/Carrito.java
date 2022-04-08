@@ -11,9 +11,7 @@ public class Carrito {
         this.llantas=llantas;
         this.ventanas=ventanas;
         this.puertas=puertas;
-
     }
-
 
     public String getcolor() {
         return color;
